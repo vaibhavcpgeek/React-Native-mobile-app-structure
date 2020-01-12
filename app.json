@@ -1,0 +1,7 @@
+{
+  "name": "SampleMobileApp",
+  "displayName": "SampleMobileApp",
+  "splash": {
+    "image": "./assets/logo.png"
+  }
+}
